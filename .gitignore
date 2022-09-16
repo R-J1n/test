@@ -1,14 +1,5 @@
-# CodeLite IDE
-*.mk
-*.txt
-*.project
-*.workspace
-compile_commands.json
+.codelite
 Makefile
-.codelite/
-*.session
-*.tags
-tags
-
-# Builds
-Debug/
+*.txt
+Debug
+*.mk
